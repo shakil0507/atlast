@@ -1,0 +1,109 @@
+{
+  "shakil": [
+    {
+      "role": "assistant",
+      "content": "Hi shakil, welcome to Chennai AI Assistant Chatbot! \ud83d\ude0a",
+      "time": "10:51 AM"
+    },
+    {
+      "role": "user",
+      "content": "tll me abou accident",
+      "time": "10:51 AM"
+    },
+    {
+      "role": "assistant",
+      "content": "\u2757 Mention a valid area.",
+      "time": "10:51 AM",
+      "type": "accident",
+      "zone": null
+    },
+    {
+      "role": "user",
+      "content": "accident in manali",
+      "time": "10:51 AM"
+    },
+    {
+      "role": "assistant",
+      "content": "\ud83d\udea7 Accidents in Manali",
+      "time": "10:51 AM",
+      "type": "accident",
+      "zone": "Manali"
+    }
+  ],
+  "imdha": {},
+  "citizens": {
+    "Chat - Jul 28, 11:06 AM": [
+      {
+        "role": "assistant",
+        "content": "Hi citizens, welcome to *Chennai AI Assistant Chatbot*! \ud83d\ude0a",
+        "time": "11:06 AM"
+      },
+      {
+        "role": "user",
+        "content": "accident egmore",
+        "time": "11:06 AM"
+      },
+      {
+        "role": "assistant",
+        "content": "\ud83d\udea7 Accidents in Egmore",
+        "time": "11:06 AM",
+        "type": "accident",
+        "zone": "Egmore"
+      }
+    ]
+  },
+  "thanzeer": {
+    "Chat - Jul 28, 11:09 AM": [
+      {
+        "role": "assistant",
+        "content": "Hi thanzeer, welcome to *Chennai AI Assistant Chatbot*! \ud83d\ude0a",
+        "time": "11:08 AM"
+      },
+      {
+        "role": "user",
+        "content": "crime in tondiarpet",
+        "time": "11:09 AM"
+      },
+      {
+        "role": "assistant",
+        "content": "\ud83d\ude94 Crimes in Tondiarpet",
+        "time": "11:09 AM",
+        "type": "crime",
+        "zone": "Tondiarpet"
+      }
+    ]
+  },
+  "saligh": {
+    "Chat - Jul 28, 11:48 AM": [
+      {
+        "role": "assistant",
+        "content": "Hi saligh, welcome to *Chennai AI Assistant Chatbot*! \ud83d\ude0a",
+        "time": "11:47 AM"
+      },
+      {
+        "role": "user",
+        "content": "flood in anna nagar",
+        "time": "11:48 AM"
+      },
+      {
+        "role": "assistant",
+        "content": "\ud83c\udf0a Flood Data for Anna Nagar",
+        "time": "11:48 AM",
+        "type": "flood",
+        "zone": "Anna Nagar"
+      },
+      {
+        "role": "user",
+        "content": "population in guindy",
+        "time": "11:48 AM"
+      },
+      {
+        "role": "assistant",
+        "content": "\ud83d\udc65 Population in Guindy",
+        "time": "11:48 AM",
+        "type": "population",
+        "zone": "Guindy"
+      }
+    ]
+  }
+}
